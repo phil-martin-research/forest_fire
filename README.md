@@ -15,6 +15,9 @@ This site contains a bunch of resources that are helpful for people working on t
 
 #### General papers about fire
 - [Fire and biodiversity in the Anthropocene](https://www.science.org/doi/10.1126/science.abb0355)
+- [The role of fire in global forest loss dynamics](https://onlinelibrary.wiley.com/doi/10.1111/gcb.15591)
+- [Animal mortality during fire](https://onlinelibrary.wiley.com/doi/10.1111/gcb.16044)
+- [Clarifying Amazonia's burning crisis](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14872)
 
 #### Evidence synthesis methods
 - [A practical guide to question formation, systematic searching and study screening for literature reviews in ecology and evolution](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13654)
