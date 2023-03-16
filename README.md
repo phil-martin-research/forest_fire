@@ -22,6 +22,8 @@ This site contains a bunch of resources that are helpful for people working on t
 
 
 ### Protocols and guides
-
+- [Protocol of the systematic review](https://docs.google.com/document/d/17mE7aZTqA_h1MITsCC4uGvT2XNLsA8elHBNnsym8NG8/edit?usp=sharing)
+- [Protocol for screening papers](https://docs.google.com/document/d/1ku-fL37BKAaHmpU3lZ6e2eNvA665PXoh5H6ewFnlEpw/edit?usp=sharing)
+- [Data extraction protocol](https://docs.google.com/document/d/1zvdxpGKVscVwIAYQjPEyfQCd0mbEF8bYrGAw6Trgab4/edit?usp=sharing)
 
 
