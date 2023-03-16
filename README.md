@@ -1,4 +1,4 @@
-# forest_fire
+# Impacts of fires on soil and litter fauna project
 
 This site contains a bunch of resources that are helpful for people working on the project 'Impacts of fire on soil and litter fauna in forests: a systematic review' which is part of the wider Holisoils project. If you have things that you think are useful to add to this site, please let me (phil.martin.research@gmail.com) know.
 
